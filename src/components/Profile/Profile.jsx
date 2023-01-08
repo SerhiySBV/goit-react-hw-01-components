@@ -8,7 +8,6 @@ export const Profile = ({
   views,
   likes,
 }) => {
-  console.log('followers: ', followers);
   return (
     <div className="profile">
       <div className="description">
