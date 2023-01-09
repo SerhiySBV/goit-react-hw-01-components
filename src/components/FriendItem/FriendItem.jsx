@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-export const FriendItem = ({ friend: { avatar, name, isOnline, id } }) => {
+export const FriendItem = ({ friend: { avatar, name, isOnline } }) => {
   return (
     <li className="item">
       <span className="status">{isOnline}</span>
