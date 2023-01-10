@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const ProfileStyle = styled.div`
   margin: auto;
-  width: 250px;
+  width: 320px;
   text-align: center;
   border: gray solid;
   border-radius: 10px;
@@ -31,7 +31,7 @@ export const SocialList = styled.ul`
   padding: unset;
   font-size: 20px;
   font-weight: 500;
-  margin: 0;
+  margin: 40px 0 0;
   height: 75px;
   justify-content: space-evenly;
   background-color: lightgray;
