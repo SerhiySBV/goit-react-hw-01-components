@@ -47,5 +47,5 @@ export const Social = styled.li`
 `;
 
 export const SocialCount = styled.span`
-  color: whitesmoke;
+  color: darkslategray;
 `;
